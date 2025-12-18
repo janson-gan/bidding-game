@@ -50,13 +50,12 @@ I plan to extend this project by:
   <img width="400" height="44" alt="image" src="https://github.com/user-attachments/assets/2b7f2ca6-e893-494e-a145-e3aff6fa6d35" />
 </p>
 
+---
 
-
-
-
-
-
-
+## ⚡ Challenges
+- Figuring out how to store multiple bids and link them to each bidder’s name.
+- Making sure the program correctly identifies the highest bid.
+- Clearing the screen so that each new bidder cannot see the previous bids.
 
 ---
 Made with ❤️ using Python
