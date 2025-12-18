@@ -17,7 +17,7 @@ I'm currently exploring Python fundamentals through mini projects, and this is a
 
 1. Run the script in your terminal:
 ```bash
-python bidding\_game.py
+python bidding_game.py
 ```
 2. Enter your name and bid when prompted.
 3. Indicate if there are more bidders (y for yes, n for no).
@@ -54,3 +54,9 @@ I plan to extend this project by:
 
 
 
+
+
+
+
+---
+Made with ❤️ using Python
