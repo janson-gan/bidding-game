@@ -1,44 +1,26 @@
 # 🏷️ Secret Bidding Game
 
-
-
 I'm currently exploring Python fundamentals through mini projects, and this is a simple \*\*Secret Bidding Game\*\*. The idea is: the first bidder enter the name and bid amount, then the program ask if there's another bidder. If yes, the screen clear and prompt for the next bidder name and bid. This way, nobody can see the previous bids. When there's no more bidders, the program will display the highest bidder's name and bid.
-
-
 
 ---
 
-
-
 ## 🎯 What this project does
-
-
 
 * Prompts each bidder to enter their name and bid amount.
 * Stores all bids in a dictionary.
 * Compares bids to find the highest bidder.
 * Announces the winner with their bid.
 
-
-
 ---
-
-
 
 ## 🛠️ How it works
 
 1. Run the script in your terminal:
-
-&nbsp;  ```bash
-
-&nbsp;  python bidding\_game.py
-
-
-
+```bash
+python bidding\_game.py
+```
 2. Enter your name and bid when prompted.
-
 3. Indicate if there are more bidders (y for yes, n for no).
-
 4. Once bidding ends, the program prints the winner.
 
 
@@ -46,11 +28,8 @@ I'm currently exploring Python fundamentals through mini projects, and this is a
 📚 What I learned
 
 - How to use dictionaries to store key-value pairs.
-
 - Writing functions to keep logic organized.
-
 - Using loops and conditionals to control program flow.
-
 - Practicing clean input/output handling in Python.
 
 
@@ -60,9 +39,6 @@ I'm currently exploring Python fundamentals through mini projects, and this is a
 I plan to extend this project by:
 
 - Adding input validation (e.g., preventing negative bids).
-
-- Allowing multiple rounds of bidding.
-
 - Saving results to a file for record keeping
 
 
