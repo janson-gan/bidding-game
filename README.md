@@ -1,4 +1,4 @@
-\# 🏷️ Secret Bidding Game
+# 🏷️ Secret Bidding Game
 
 
 
@@ -10,7 +10,7 @@ I'm currently exploring Python fundamentals through mini projects, and this is a
 
 
 
-\## 🎯 What this project does
+## 🎯 What this project does
 
 
 
@@ -25,9 +25,9 @@ I'm currently exploring Python fundamentals through mini projects, and this is a
 
 
 
-\## 🛠️ How it works
+## 🛠️ How it works
 
-1\. Run the script in your terminal:
+1. Run the script in your terminal:
 
 &nbsp;  ```bash
 
@@ -35,23 +35,23 @@ I'm currently exploring Python fundamentals through mini projects, and this is a
 
 
 
-2\. Enter your name and bid when prompted.
+2. Enter your name and bid when prompted.
 
-3\. Indicate if there are more bidders (y for yes, n for no).
+3. Indicate if there are more bidders (y for yes, n for no).
 
-4\. Once bidding ends, the program prints the winner.
+4. Once bidding ends, the program prints the winner.
 
 
 
 📚 What I learned
 
-\- How to use dictionaries to store key-value pairs.
+- How to use dictionaries to store key-value pairs.
 
-\- Writing functions to keep logic organized.
+- Writing functions to keep logic organized.
 
-\- Using loops and conditionals to control program flow.
+- Using loops and conditionals to control program flow.
 
-\- Practicing clean input/output handling in Python.
+- Practicing clean input/output handling in Python.
 
 
 
@@ -59,15 +59,16 @@ I'm currently exploring Python fundamentals through mini projects, and this is a
 
 I plan to extend this project by:
 
-\- Adding input validation (e.g., preventing negative bids).
+- Adding input validation (e.g., preventing negative bids).
 
-\- Allowing multiple rounds of bidding.
+- Allowing multiple rounds of bidding.
 
-\- Saving results to a file for record keeping
+- Saving results to a file for record keeping
 
 
 
-\## Example Output
+## Example Output
+<img width="631" height="334" alt="image" src="https://github.com/user-attachments/assets/ea58bc09-7c81-4e72-b2ed-943030056824" />
 
 
 
