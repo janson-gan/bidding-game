@@ -68,11 +68,11 @@ I plan to extend this project by:
 
 
 ## Example Output
-<li>
-  <img width="631" height="334" alt="image" src="https://github.com/user-attachments/assets/ea58bc09-7c81-4e72-b2ed-943030056824" />
-  <img width="593" height="97" alt="image" src="https://github.com/user-attachments/assets/bf8defa7-7d7a-4708-8f5a-50866c380118" />
-  <img width="381" height="44" alt="image" src="https://github.com/user-attachments/assets/2b7f2ca6-e893-494e-a145-e3aff6fa6d35" />
-</li>
+<p align="center>
+  <img width="400" height="334" alt="image" src="https://github.com/user-attachments/assets/ea58bc09-7c81-4e72-b2ed-943030056824" />
+  <img width="400" height="97" alt="image" src="https://github.com/user-attachments/assets/bf8defa7-7d7a-4708-8f5a-50866c380118" />
+  <img width="400" height="44" alt="image" src="https://github.com/user-attachments/assets/2b7f2ca6-e893-494e-a145-e3aff6fa6d35" />
+</p>
 
 
 
