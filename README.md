@@ -55,7 +55,7 @@ I plan to extend this project by:
 ## ⚡ Challenges
 - Figuring out how to store multiple bids and link them to each bidder’s name.
 - Making sure the program correctly identifies the highest bid.
-- Clearing the screen so that each new bidder cannot see the previous bids.
+- Ensure program keeps running until no more bidder. 
 
 ---
 Made with ❤️ using Python
